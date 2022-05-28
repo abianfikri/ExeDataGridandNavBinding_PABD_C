@@ -1,0 +1,14 @@
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\bin\Debug\Exercise3_PABD.exe.config
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\bin\Debug\Exercise3_PABD.exe
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\bin\Debug\Exercise3_PABD.pdb
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.csproj.AssemblyReference.cache
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.Form1.resources
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.Properties.Resources.resources
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.csproj.GenerateResource.cache
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.csproj.CoreCompileInputs.cache
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.exe
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.pdb
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.Dashboard.resources
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.gridData.resources
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.navBinding.resources
+D:\PABD 4\Exercise3_PABD\Exercise3_PABD\obj\Debug\Exercise3_PABD.viewData.resources
