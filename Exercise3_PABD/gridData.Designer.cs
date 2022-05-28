@@ -165,8 +165,9 @@ namespace Exercise3_PABD
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "gridData";
-            this.Text = "gridData";
+            this.Text = "Halaman Grid Data";
             this.Load += new System.EventHandler(this.gridData_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.mahasiswaBindingSource)).EndInit();

@@ -29,6 +29,7 @@ namespace Exercise3_PABD
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -104,7 +105,7 @@ namespace Exercise3_PABD
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label5.Location = new System.Drawing.Point(132, 261);
+            this.label5.Location = new System.Drawing.Point(133, 261);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(85, 31);
             this.label5.TabIndex = 8;
@@ -150,6 +151,7 @@ namespace Exercise3_PABD
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Honeydew;
+            this.button1.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Aqua;
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -165,6 +167,7 @@ namespace Exercise3_PABD
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.Firebrick;
+            this.button2.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button2.FlatAppearance.BorderColor = System.Drawing.Color.Red;
             this.button2.FlatAppearance.BorderSize = 2;
             this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
@@ -184,7 +187,8 @@ namespace Exercise3_PABD
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Teal;
-            this.ClientSize = new System.Drawing.Size(764, 451);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.ClientSize = new System.Drawing.Size(763, 451);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.checkBox1);
@@ -196,8 +200,9 @@ namespace Exercise3_PABD
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Login";
+            this.Text = "Teknologi Informasi";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
